@@ -1,5 +1,5 @@
 // when the document is ready load the file
-$(document).ready(() => {
+$(() => {
   // escape function for xss security
   const escape =  function(str) {
     let div = document.createElement("div");
