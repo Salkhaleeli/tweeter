@@ -35,4 +35,9 @@ Go to http://localhost:8080/ in your browser.
 # Final Product Screenshots
 ![Main Page](public/images/tweeter-main.png)
 ![Tweeting](public/images/tweet-main2.png)
-![Error warning](public/images/Error-warning.png)
+
+[Warning on empty submissions or more than 140 characters](public/images/Error-warning.png)
+[Responsive page design](public/images/responsive.png)
+
+
+
