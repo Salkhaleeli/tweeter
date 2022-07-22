@@ -33,4 +33,6 @@ Go to http://localhost:8080/ in your browser.
 * Nodemon
 
 # Final Product Screenshots
-![]()
+![Main Page](public/images/tweeter-main.png)
+![Tweeting](public/images/tweeter-main2.png)
+![Error warning](public/images/Error-warning.png)
