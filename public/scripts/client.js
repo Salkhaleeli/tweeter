@@ -25,9 +25,9 @@ $(() => {
           <footer>
             <span>${time2TimeAgo(timeStamp)}</span>
             <div class="userAction">
-              <img src="/images/like.png" width="20px" height="20px">
-              <img src="/images/retweet.png" width="20px" height="20px">
-              <img src="/images/flag.png" width="20px" height="20px">
+            <button class="flag">🏴</button>
+            <button class="retweet">🔁</button>
+            <button class="like">🖤</button>
             </div>
           </footer> 
         </article>`;

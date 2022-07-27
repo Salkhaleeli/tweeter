@@ -42,12 +42,13 @@
 }
 
 .userAction {
-  opacity: 0;;
+  opacity: 1;
 }
 
 .tweet:hover {
   opacity: 1;
   box-shadow: 10px 10px grey;
+  background-color: #D5E2D8;
 }
 
 .tweet:hover #username {
@@ -57,3 +58,12 @@
 .tweet:hover .userAction {
   opacity: 1;
 } 
+.tweet:hover .like{
+  background-color: #e94f4f;
+}
+.tweet:hover .flag{
+  background-color: #DDD8C6;
+}
+.tweet:hover .retweet{
+  background-color: #D5B648;
+}
