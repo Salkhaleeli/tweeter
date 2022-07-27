@@ -3,6 +3,8 @@
   margin-top: 50px;
   margin-bottom: 50px;
   border: 3px solid #545149;
+  color: #736637;
+  font-style: italic;
 }
 .tweet header {
   padding: 0.5em;
@@ -20,10 +22,11 @@
 }
 #username {
   margin-right: 20px;
-  opacity: 0;
-  color: #B1B0B6;
+  opacity: 1;
+  color: #817d93;
   font-weight: bolder;
 }
+
 .tweet p {
   margin-left: 2%;
   margin-right: 2%;
@@ -47,19 +50,20 @@
 
 .tweet:hover {
   opacity: 1;
-  box-shadow: 10px 10px grey;
+  box-shadow: 10px 10px cadetblue;
   background-color: #D5E2D8;
 }
 
 .tweet:hover #username {
   opacity: 1;
+
 }
 
 .tweet:hover .userAction {
   opacity: 1;
 } 
 .tweet:hover .like{
-  background-color: #e94f4f;
+  background-color: #e77777;
 }
 .tweet:hover .flag{
   background-color: #DDD8C6;
