@@ -54,20 +54,21 @@
   background-color: #D5E2D8;
 }
 
-.tweet:hover #username {
+#username:hover {
   opacity: 1;
+  color:rgb(11, 77, 113);
 
 }
 
 .tweet:hover .userAction {
   opacity: 1;
 } 
-.tweet:hover .like{
+.like:hover {
   background-color: #e77777;
 }
-.tweet:hover .flag{
+.flag:hover{
   background-color: #DDD8C6;
 }
-.tweet:hover .retweet{
+.retweet:hover{
   background-color: #D5B648;
 }
